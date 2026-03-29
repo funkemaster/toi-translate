@@ -1,0 +1,4 @@
+{
+  "command": "python3 -u app.py",
+  "build_path": "."
+}
